@@ -1,4 +1,4 @@
-# smart_scanner
+# security-scanner
 Security scanner with **hash-based baseline verification**
 
 
